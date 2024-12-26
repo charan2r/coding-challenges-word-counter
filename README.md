@@ -1,2 +1,2 @@
 # wc
-a dense simple word counter
+simple word counter
